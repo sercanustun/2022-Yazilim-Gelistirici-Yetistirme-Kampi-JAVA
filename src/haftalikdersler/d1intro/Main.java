@@ -1,4 +1,4 @@
-package src.intro;
+package src.haftalikdersler.d1intro;
 
 public class Main {
 

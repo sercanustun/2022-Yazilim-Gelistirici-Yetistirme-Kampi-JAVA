@@ -1,4 +1,4 @@
-package src.uygulamalar;
+package src.odevler.o1;
 
 public class MiniProje4ArkadasSayilar {
     public static void main(String[] args) {

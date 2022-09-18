@@ -1,4 +1,4 @@
-package src.uygulamalar;
+package src.odevler.o1;
 
 public class TemelVeriTipleriyleCalismak {
     public static void main(String[] args) {

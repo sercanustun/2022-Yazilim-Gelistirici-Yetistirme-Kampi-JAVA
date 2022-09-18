@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class DizilerleCalismayaBaslamak {
+public class V14DizilerleCalismayaBaslamak {
     public static void main(String[] args) {
         String ogrenci1 = "Engin";
         String ogrenci2 = "Derin";

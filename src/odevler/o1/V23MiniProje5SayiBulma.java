@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class MiniProje5SayiBulma {
+public class V23MiniProje5SayiBulma {
     public static void main(String[] args) {
         int[] sayilar = new int[]{1, 2, 5, 7, 9, 10};
         int aranacak = 8;

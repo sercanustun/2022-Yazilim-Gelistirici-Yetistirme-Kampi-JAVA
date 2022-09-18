@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class MiniProje1SayiAsalMi {
+public class V19MiniProje1SayiAsalMi {
     public static void main(String[] args) {
         int number = 2;
         boolean isPrime = true;

@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class WhileDongusuyleCalismak {
+public class V12WhileDongusuyleCalismak {
     public static void main(String[] args) {
         //while
 

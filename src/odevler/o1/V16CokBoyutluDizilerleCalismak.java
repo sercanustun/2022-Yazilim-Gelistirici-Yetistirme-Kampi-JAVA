@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class CokBoyutluDizilerleCalismak {
+public class V16CokBoyutluDizilerleCalismak {
     public static void main(String[] args) {
 
         String sehirler[][] = new String[3][3];

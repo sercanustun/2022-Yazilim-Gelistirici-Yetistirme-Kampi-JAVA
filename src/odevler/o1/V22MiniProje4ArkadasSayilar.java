@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class MiniProje4ArkadasSayilar {
+public class V22MiniProje4ArkadasSayilar {
     public static void main(String[] args) {
         int sayi1 = 220;
         int sayi2 = 221;

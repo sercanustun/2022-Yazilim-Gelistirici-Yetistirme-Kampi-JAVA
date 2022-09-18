@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class StringlerleCalismak1 {
+public class V17StringlerleCalismak1 {
     public static void main(String[] args) {
         String mesaj = "Bugün hava çok güzel.";
         System.out.println(mesaj);

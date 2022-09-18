@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class DoWhileDongusuyleCalismak {
+public class V13DoWhileDongusuyleCalismak {
     public static void main(String[] args) {
         int i = 1;
         do {

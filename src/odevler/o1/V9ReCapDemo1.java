@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class ReCapDemo1 {
+public class V9ReCapDemo1 {
     public static void main(String[] args) {
         int sayi1 = 20;
         int sayi2 = 25;

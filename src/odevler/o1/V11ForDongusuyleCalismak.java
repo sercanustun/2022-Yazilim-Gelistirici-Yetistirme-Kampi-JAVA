@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class ForDongusuyleCalismak {
+public class V11ForDongusuyleCalismak {
     public static void main(String[] args) {
         //for
 

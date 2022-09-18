@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class SwitchBloklariylaCalismak {
+public class V10SwitchBloklariylaCalismak {
     public static void main(String[] args) {
 
         char grade = 'C';

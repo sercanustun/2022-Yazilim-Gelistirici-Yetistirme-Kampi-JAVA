@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class MiniProje2KalinSesliVeInceSesliHarfler {
+public class V20MiniProje2KalinSesliVeInceSesliHarfler {
     public static void main(String[] args) {
         char harf = 'İ';
 

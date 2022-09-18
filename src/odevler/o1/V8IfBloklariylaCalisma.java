@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class IfBloklariylaCalisma {
+public class V8IfBloklariylaCalisma {
     public static void main(String[] args) {
 
         int sayi = 24;

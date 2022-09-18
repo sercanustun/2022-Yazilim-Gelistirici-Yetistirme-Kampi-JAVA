@@ -1,6 +1,6 @@
 package src.odevler.o1;
 
-public class MiniProje3MukkemmelSayilar {
+public class V21MiniProje3MukkemmelSayilar {
     public static void main(String[] args) {
         int number = 6;
         int total = 0;
